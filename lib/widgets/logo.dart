@@ -13,7 +13,7 @@ class Logo extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Container(
-        width: 170,
+        width: 160,
         margin: EdgeInsets.only( top: 50),
         child: Column(
           children: [
